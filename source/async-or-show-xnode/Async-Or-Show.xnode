@@ -35,4 +35,12 @@
 	<Item Name="DoubleClick.vi" Type="Ability VI" URL="../DoubleClick.vi">
 		<Property Name="NI.XItem.Name" Type="Str">DoubleClick</Property>
 	</Item>
+	<Item Name="Async-Or-Show.OnDoubleClickRuntime2.vi" Type="Ability VI" URL="../Async-Or-Show.OnDoubleClickRuntime2.vi">
+		<Property Name="NI.XItem.Name" Type="Str">OnDoubleClickRuntime2</Property>
+		<Property Name="NI.XItem.RuntimeAbility" Type="Bool">true</Property>
+	</Item>
+	<Item Name="Async-Or-Show.GetAutotoolRegionsRuntime.vi" Type="Ability VI" URL="../Async-Or-Show.GetAutotoolRegionsRuntime.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetAutotoolRegionsRuntime</Property>
+		<Property Name="NI.XItem.RuntimeAbility" Type="Bool">true</Property>
+	</Item>
 </XNode>
